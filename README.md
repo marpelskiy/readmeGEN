@@ -29,7 +29,7 @@
 Склонируйте проект к себе на локальную машину:
 
 ```bash
-git clone https://github.com/твой_ник/readmeGEN.git
+git clone https://github.com/marpelskiy/readmeGEN
 cd readmeGEN
 
 ```
